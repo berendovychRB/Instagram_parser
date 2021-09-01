@@ -1,1 +1,4 @@
 instabot
+fastapi
+uvicorn
+pydantic
